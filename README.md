@@ -1,5 +1,3 @@
-
-Kristin
 # Github Pull Request Basics
 
 ## Objectives:
