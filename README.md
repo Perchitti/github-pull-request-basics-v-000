@@ -19,7 +19,11 @@ a great example of a pull request on the `Ruby` codebase.
 
 Let's go over a conceptual example. It's OK if this feels a bit confusing at
 first, you'll work through this countless times and eventually your brain
-and fingers will both grasp what's going on.
+and fingers will both grasp what's going on. Nevertheless, the URLs and paths
+might not work. You're not meant to follow them to test them. Rather, you're
+meant to visually identify the pattern in the naming. Additionally,
+`your-user-name` is a "variable" which you can imagine as being filled in with
+something like `joe-flatiron`.
 
 ### Pull Request to a Source Repository
 
@@ -64,27 +68,16 @@ jQuery).
 
 ### Step 1
 
-Click on the New Pull Request button.
 
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
-
-### Step 2
-
-Here you can choose the base fork, which will be `their-user-name/awesome-lab`.
-Then choose the head fork, which will be `your-user-name/awesome-lab`
-
-Now click Create pull request.
-
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/4.jpg)
 
 ### Add Commits To An Existing Pull Request
 
 Let's say you make a pull request from
 `https://github.com/your-user-name/awesome-lab` to
 `https://github.com/learn-co-students/awesome-lab`. Then you notice you made a
-typo in your code. All you have to do is fix the typo, commit it and push up
-the changes to your branch. As long as the pull request already exists, the
-commits will be added automatically.
+typo in your code. All you have to do is fix the typo on your local machine,
+commit it and push up the changes to your branch. As long as the pull request
+already exists and hasn't been merged, the commits will be added automatically.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
 
